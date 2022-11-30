@@ -103,7 +103,7 @@ function App() {
                     <h3 className="p-2">Chất lượng</h3>
                     <p className="p-2">
                       Chúng tôi cam kết mọi nguyên liệu tươi ngon thượng hạng, được
-                      đầu bếp lựa chọn kỹ lương
+                      đầu bếp lựa chọn kỹ lưỡng
                     </p>
                   </div>
                   <div className="col-sm-3 p-4 bg-lightsalmon border-warning">
@@ -278,7 +278,7 @@ function App() {
                     <div className="col-sm-4">
                       <div className="card w-100" style={{ width: "18rem" }}>
                         <img src={IMAGES.hawaii} className="card-img-top" alt='hawai'/>
-                        <div className="card-body" style={{width:"25.6rem"}}>
+                        <div className="card-body">
                           <h4 className="text-uppercase">hawaiian</h4>
                           <p className="text-uppercase">
                             pizza dăm bông dứa kiểu hawaii
